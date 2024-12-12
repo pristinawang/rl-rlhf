@@ -1,0 +1,3 @@
+conda create -n rl_rlhf python=3.10.13
+conda activate rl_rlhf
+pip install -r requirements.txt
